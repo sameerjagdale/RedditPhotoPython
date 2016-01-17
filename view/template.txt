@@ -1,7 +1,7 @@
 <html>
     <head> 
         <title> 
-            Test
+            Reddit Photo Album
         </title> 
         <!-- 1. Link to jQuery (1.8 or later), -->
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> <!-- 33 KB -->
